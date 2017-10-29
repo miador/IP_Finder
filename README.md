@@ -13,10 +13,10 @@ The script hasn't run in Windows and MacOS yet.
 
 ## Usage
 
-`cd ~`
-`git clone https://github.com/miador/IP_Finder`
-`cd IP_Finder`
-`python3 IP_Finder.py`
+    cd ~ 
+    git clone https://github.com/miador/IP_Finder 
+    cd IP_Finder
+    python3 IP_Finder.py
 
 I want to see your feedbacks/commits for my first script.
 
