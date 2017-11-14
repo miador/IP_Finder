@@ -5,7 +5,7 @@ A very very basic Python3 network script that finds site's IP, pings and tracero
 
 Consider this:
 If you want to tcptraceroute, you have to be a superuser as root in Linux.
-The script hasn't run in Windows and MacOS yet. 7
+The script hasn't run in Windows and MacOS yet. 
 In all GNU/Linux distributions "ping" command comes default. But in some distros "traceroute" does not come defaultly(like Debian). To use this option install "traceroute".
 
 
